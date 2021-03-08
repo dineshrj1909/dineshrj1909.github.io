@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working as a web developer, curious in developing intuitive designs into user friendly apps to create a better experience for the end users.
+
+## 🌱 I’m currently learning Polymer, the library creating wonders in realtime apps, but not familiar among developer community.
+
+# 📫 How to reach me:
+  [LinkedIn](https://www.linkedin.com/in/dinesh-raja-4a916a118/)
+  [dineshrj.1909@gmail.com](mailto: dineshrj.1909@gmail.com)
+  
 <!--
 **dineshrj1909/dineshrj1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
